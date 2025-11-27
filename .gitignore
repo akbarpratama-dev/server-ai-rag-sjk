@@ -1,0 +1,21 @@
+# Environment variables
+.env
+*.env
+.env.local
+
+# API Keys & Credentials
+*-credentials.json
+config.json
+
+# Node modules (jika ada)
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+AIzaSyDueKfCdcG1Fc4YPOxOu1didEfIVxxMUog
